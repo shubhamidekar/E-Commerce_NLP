@@ -6,13 +6,13 @@ This repository contains a Jupyter Notebook showcasing a text classification pro
 
 The preprocessing pipeline consists of several steps to clean and prepare the text data for modeling:
 
-1. **Expand Contractions**: Convert shortened words to their full forms (e.g., "isn't" to "is not").
-2. **Remove Punctuations**: Eliminate all punctuation symbols from the text.
-3. **Tokenization**: Break down text into individual words or tokens.
-4. **Convert to Lower Case**: Normalize the text by converting all characters to lower case.
-5. **Remove Words Containing Numerical Digits**: Filter out any words that contain numbers.
-6. **Remove Stopwords**: Eliminate common words that carry minimal useful information.
-7. **Stemming/Lemmatization**: Reduce words to their root form or base dictionary form.
+1. **Expand Contractions**:   Convert shortened words to their full forms (e.g., "isn't" to "is not").
+2. **Remove Punctuations**:   Eliminate all punctuation symbols from the text.
+3. **Tokenization**:           Break down text into individual words or tokens.
+4. **Convert to Lower Case**:   Normalize the text by converting all characters to lower case.
+5. **Remove Words Containing Numerical Digits**:   Filter out any words that contain numbers.
+6. **Remove Stopwords**:     Eliminate common words that carry minimal useful information.
+7. **Stemming/Lemmatization**:     Reduce words to their root form or base dictionary form.
 
 ## Text Vectorization
 
