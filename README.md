@@ -24,14 +24,11 @@ Text vectorization is a critical step in transforming textual data into numerica
 
 - **Accuracy**: ~94%
 - **Precision**, **Recall**, and **F1-Score** across categories like Books, Clothing & Accessories, Electronics, and Household range between 0.90 to 0.98, indicating strong performance in correctly classifying instances.
-- **Macro Avg**: 0.94
-- **Weighted Avg**: 0.94
 
 ### CNN Model
 
 - **Overall Accuracy**: ~97%
 - **Precision**, **Recall**, and **F1-Score** for each category are high, ranging from 0.97 to 0.98, suggesting excellent balance and accuracy in predictions.
-- **Macro Avg and Weighted Avg** similarly reflect high performance.
 
 ## Interpretation
 
