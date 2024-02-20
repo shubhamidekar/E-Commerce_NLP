@@ -41,7 +41,7 @@ Both models demonstrate robust performance, with the CNN model slightly outperfo
 
 1. Clone this repository to your local machine.
 2. Ensure you have Jupyter Notebook installed, or use [Google Colab](https://colab.research.google.com/) for an online alternative.
-3. Open the `Text_Classification_NLP_Project.ipynb` notebook and replace the 'eCommerceDataset.csv' with this Kaggle dataset 'https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification' download it on your local machine before
+3. Open the `TextClassification.ipynb` notebook and replace the 'eCommerceDataset.csv' with this Kaggle dataset 'https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification' download it on your local machine before
 4. Run the cells sequentially to observe the preprocessing, model training, and evaluation steps.
 
 ## Requirements
